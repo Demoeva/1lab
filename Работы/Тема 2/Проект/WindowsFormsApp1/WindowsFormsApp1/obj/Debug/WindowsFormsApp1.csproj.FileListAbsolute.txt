@@ -1,5 +1,0 @@
-E:\Практика ПП\Работы\Тема 2\Проект\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
-E:\Практика ПП\Работы\Тема 2\Проект\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
-E:\Практика ПП\Работы\Тема 2\Проект\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
-E:\Практика ПП\Работы\Тема 2\Проект\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
-E:\Практика ПП\Работы\Тема 2\Проект\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
