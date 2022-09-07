@@ -1,0 +1,10 @@
+E:\prakt5_Erdniev\prakt5_Erdniev\obj\Debug\prakt5_Erdniev.csprojAssemblyReference.cache
+E:\prakt5_Erdniev\prakt5_Erdniev\obj\Debug\prakt5_Erdniev.Form1.resources
+E:\prakt5_Erdniev\prakt5_Erdniev\obj\Debug\prakt5_Erdniev.Properties.Resources.resources
+E:\prakt5_Erdniev\prakt5_Erdniev\obj\Debug\prakt5_Erdniev.csproj.GenerateResource.cache
+E:\prakt5_Erdniev\prakt5_Erdniev\obj\Debug\prakt5_Erdniev.csproj.CoreCompileInputs.cache
+E:\prakt5_Erdniev\prakt5_Erdniev\bin\Debug\prakt5_Erdniev.exe.config
+E:\prakt5_Erdniev\prakt5_Erdniev\bin\Debug\prakt5_Erdniev.exe
+E:\prakt5_Erdniev\prakt5_Erdniev\bin\Debug\prakt5_Erdniev.pdb
+E:\prakt5_Erdniev\prakt5_Erdniev\obj\Debug\prakt5_Erdniev.exe
+E:\prakt5_Erdniev\prakt5_Erdniev\obj\Debug\prakt5_Erdniev.pdb

@@ -1,0 +1,10 @@
+E:\Prakt3\Prakt3\bin\Debug\Prakt3.exe.config
+E:\Prakt3\Prakt3\bin\Debug\Prakt3.exe
+E:\Prakt3\Prakt3\bin\Debug\Prakt3.pdb
+E:\Prakt3\Prakt3\obj\Debug\Prakt3.csprojAssemblyReference.cache
+E:\Prakt3\Prakt3\obj\Debug\Prakt3.Form1.resources
+E:\Prakt3\Prakt3\obj\Debug\Prakt3.Properties.Resources.resources
+E:\Prakt3\Prakt3\obj\Debug\Prakt3.csproj.GenerateResource.cache
+E:\Prakt3\Prakt3\obj\Debug\Prakt3.csproj.CoreCompileInputs.cache
+E:\Prakt3\Prakt3\obj\Debug\Prakt3.exe
+E:\Prakt3\Prakt3\obj\Debug\Prakt3.pdb

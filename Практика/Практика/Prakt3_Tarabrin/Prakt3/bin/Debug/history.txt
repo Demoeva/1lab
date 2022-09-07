@@ -1,0 +1,128 @@
+Iput value in 10 system
+15
+15 in 5 System --> 30
+=============================
+Iput value in 10 system
+15
+15 in 7 System --> 21
+=============================
+Input value in 10 system
+15
+15 in 3 System --> 120
+=============================
+Iput value in 10 system
+0
+0 in 7 System --> 0
+=============================
+Iput value in 10 system
+0
+0 in 5 System --> 0
+=============================
+Input value in 10 system
+0
+0 in 3 System --> 0
+=============================
+Iput value in 10 system
+9999999
+9999999 in 7 System --> 150666342
+=============================
+Iput value in 10 system
+100
+100 in 5 System --> 400
+=============================
+Input value in 10 system
+9999999
+9999999 in 3 System --> 200211001102100
+=============================
+Iput value in 10 system
+9999999
+9999999 in 5 System --> 10024444444
+=============================
+Iput value in 10 system
+9999999
+9999999 in 7 System --> 150666342
+=============================
+Iput value in 10 system
+1
+1 in 7 System --> 1
+=============================
+Input value in 10 system
+1
+1 in 3 System --> 1
+=============================
+Input value in 10 system
+10
+10 in 3 System --> 101
+=============================
+Iput value in 10 system
+10
+10 in 5 System --> 20
+=============================
+Iput value in 10 system
+10
+10 in 7 System --> 13
+=============================
+Input value in 10 system
+9999999
+9999999 in 3 System --> 200211001102100
+=============================
+Iput value in 10 system
+500
+500 in 5 System --> 4000
+=============================
+Input value in 10 system
+800
+800 in 5 System --> 11200
+=============================
+Input value in 10 system
+800
+800 in 7 System --> 2222
+=============================
+Input value in 10 system
+800
+800 in 3 System --> 1002122
+=============================
+Input value in 10 system
+9999999
+9999999 in 3 System --> 200211001102100
+=============================
+Input value in 10 system
+9999999
+9999999 in 7 System --> 150666342
+=============================
+Input value in 10 system
+1
+1 in 5 System --> 1
+=============================
+Input value in 10 system
+15
+15 in 3 System --> 120
+=============================
+Input value in 10 system
+900
+900 in 5 System --> 12100
+=============================
+Input value in 10 system
+345
+345 in 7 System --> 1002
+=============================
+Input value in 10 system
+15
+15 in 3 System --> 120
+=============================
+Input value in 10 system
+15
+15 in 3 System --> 120
+=============================
+Input value in 10 system
+15
+15 in 3 System --> 120
+=============================
+Input value in 10 system
+900
+900 in 5 System --> 12100
+=============================
+Input value in 10 system
+345
+345 in 7 System --> 1002
+=============================
